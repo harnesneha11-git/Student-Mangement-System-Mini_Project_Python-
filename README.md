@@ -1,4 +1,4 @@
-Student Management System
+<img width="590" height="497" alt="Screenshot 2026-09-30 222251" src="https://github.com/user-attachments/assets/59883122-e5f4-461c-bead-f73e65b9b5ff" />Student Management System
 
 A simple Student Management System developed using Python and Tkinter. This project provides a basic graphical user interface (GUI) to manage student information such as student name and course name.
 
@@ -52,3 +52,6 @@ Author
 Sneha Harne
 
 GitHub: harnesneha11-git
+
+
+<img width="590" height="497" alt="Screenshot 2026-09-30 222251" src="https://github.com/user-attachments/assets/b4359010-4181-4b1a-84ad-3f79bbf81646" />
