@@ -20,7 +20,7 @@ Student-Management-System/
 └── README.md
 How to Run
 1. Clone the repository
-git clone https://github.com/your-username/Student-Management-System.git
+git clone https://github.com/harnesneha11-git/Student-Management-System.git
 2. Open the project folder
 cd Student-Management-System
 3. Run the Python file
