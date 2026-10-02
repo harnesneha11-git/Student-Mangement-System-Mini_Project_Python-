@@ -69,7 +69,8 @@ The application provides a simple GUI containing:
 - ✅ Add input validation
 - 🎨 Improve the GUI design
 
-## 👩‍💻 Author
-Sneha Harne
+<img width="590" height="497" alt="Student Management System" src="https://github.com/user-attachments/assets/31707b51-6f32-45db-a03d-0767f2d7a666" />
 
-harnesneha11-git
+## 👩‍💻 Author
+**Sneha Harne**
+**harnesneha11-git**
