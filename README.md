@@ -71,4 +71,5 @@ The application provides a simple GUI containing:
 
 ## 👩‍💻 Author
 Sneha Harne
+
 harnesneha11-git
