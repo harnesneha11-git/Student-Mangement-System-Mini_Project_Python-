@@ -1,6 +1,6 @@
 ### 📚 Student Management System
 
-- A simple Student Management System developed using **Python and Tkinter**.  
+ A simple Student Management System developed using **Python and Tkinter**.  
 This project provides a basic graphical user interface (GUI) to manage student information such as student name and course name.
 
 ## Features
