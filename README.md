@@ -70,5 +70,5 @@ The application provides a simple GUI containing:
 - 🎨 Improve the GUI design
 
 ## 👩‍💻 Author
-- Sneha Harne
-- harnesneha11-git
+Sneha Harne
+harnesneha11-git
