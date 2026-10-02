@@ -31,16 +31,16 @@ Student-Management-System/
 ### 1️⃣ Clone the repository
 
 ```text
-git clone https://github.com/YOUR-USERNAME/Student-Management-System.git
+git clone https://github.com/harnesneha11-git/Student-Management-System.git
 ```
 2️⃣ Open the project folder
-
+```text
 cd Student-Management-System
-
+```
 3️⃣ Run the Python file
-
+```text
 python main.py
-
+```
 ⚙️ How It Works
 👤 Enter the Student Name.
 📚 Enter the Course Name.
