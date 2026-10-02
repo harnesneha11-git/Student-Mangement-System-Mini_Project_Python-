@@ -51,24 +51,24 @@ python main.py
 - 6.✏️ Edit the details and click Update.
 - 7.🗑️ Select a student and click Delete to remove the record.
 
-🖥️ User Interface
+## 🖥️ User Interface
 The application provides a simple GUI containing:
 
-👤 Student Name input field
-📚 Course Name input field
-➕ Add button
-✏️ Update button
-🗑️ Delete button
-👁️ View button
-📋 Student list display
+- 👤 Student Name input field
+- 📚 Course Name input field
+- ➕ Add button
+- ✏️ Update button
+- 🗑️ Delete button
+- 👁️ View button
+- 📋 Student list display
 
-🔮 Future Improvements
-🗄️ Add a database using MySQL or SQLite
-🆔 Add Student ID, email, and contact details
-🔍 Add search functionality
-✅ Add input validation
-🎨 Improve the GUI design
+## 🔮 Future Improvements
+- 🗄️ Add a database using MySQL or SQLite
+- 🆔 Add Student ID, email, and contact details
+- 🔍 Add search functionality
+- ✅ Add input validation
+- 🎨 Improve the GUI design
 
-👩‍💻 Author
-Sneha Harne
-harnesneha11-git
+## 👩‍💻 Author
+- Sneha Harne
+- harnesneha11-git
