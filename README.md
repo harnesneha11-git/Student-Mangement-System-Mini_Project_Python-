@@ -5,12 +5,12 @@ This project provides a basic graphical user interface (GUI) to manage student i
 
 ## Features
 
-- ➕ Add Student – Add a new student's details
-- ✏️ Update Student – Update the selected student's information
-- 🗑️ Delete Student – Delete a selected student
-- 👁️ View Students – Display the list of students
-- 🖱️ Select Student – Select a student from the list to view or edit details
-- 🧹 Clear Input – Automatically clears the input fields after adding or deleting a student
+-  Add Student – Add a new student's details
+-  Update Student – Update the selected student's information
+-  Delete Student – Delete a selected student
+-  View Students – Display the list of students
+-  Select Student – Select a student from the list to view or edit details
+-  Clear Input – Automatically clears the input fields after adding or deleting a student
 
 ## Technologies Used
 
@@ -43,31 +43,31 @@ python main.py
 ```
 ## ⚙️ How It Works
 
-- 1.👤 Enter the Student Name.
-- 2.📚 Enter the Course Name.
-- 3.➕ Click Add to add the student.
-- 4.👁️ Click View to display the students.
-- 5.🖱️ Select a student from the list.
-- 6.✏️ Edit the details and click Update.
-- 7.🗑️ Select a student and click Delete to remove the record.
+- 1. Enter the Student Name.
+- 2. Enter the Course Name.
+- 3. Click Add to add the student.
+- 4. Click View to display the students.
+- 5. Select a student from the list.
+- 6. Edit the details and click Update.
+- 7. Select a student and click Delete to remove the record.
 
 ## 🖥️ User Interface
 The application provides a simple GUI containing:
 
-- 👤 Student Name input field
-- 📚 Course Name input field
-- ➕ Add button
-- ✏️ Update button
-- 🗑️ Delete button
-- 👁️ View button
-- 📋 Student list display
+-  Student Name input field
+-  Course Name input field
+-  Add button
+-  Update button
+-  Delete button
+-  View button
+-  Student list display
 
 ## 🔮 Future Improvements
-- 🗄️ Add a database using MySQL or SQLite
-- 🆔 Add Student ID, email, and contact details
-- 🔍 Add search functionality
-- ✅ Add input validation
-- 🎨 Improve the GUI design
+-  Add a database using MySQL or SQLite
+-  Add Student ID, email, and contact details
+-  Add search functionality
+-  Add input validation
+-  Improve the GUI design
 
 <img width="590" height="497" alt="Student Management System" src="https://github.com/user-attachments/assets/31707b51-6f32-45db-a03d-0767f2d7a666" />
 
