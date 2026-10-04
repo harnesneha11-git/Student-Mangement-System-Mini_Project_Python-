@@ -43,13 +43,13 @@ python main.py
 ```
 ## ⚙️ How It Works
 
-- 1. Enter the Student Name.
-- 2. Enter the Course Name.
-- 3. Click Add to add the student.
-- 4. Click View to display the students.
-- 5. Select a student from the list.
-- 6. Edit the details and click Update.
-- 7. Select a student and click Delete to remove the record.
+-  Enter the Student Name.
+-  Enter the Course Name.
+-  Click Add to add the student.
+-  Click View to display the students.
+-  Select a student from the list.
+-  Edit the details and click Update.
+-  Select a student and click Delete to remove the record.
 
 ## 🖥️ User Interface
 The application provides a simple GUI containing:
